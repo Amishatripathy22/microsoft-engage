@@ -74,7 +74,7 @@ const JoinClass = () => {
               onClick={() => setJoinClassDialog(false)}
             >
               <Close className="joinClass__svg" />
-              <div className="joinClass__topHead">Join Club</div>
+              <div className="joinClass__topHead">Join Class</div>
             </div>
             <Button
               className="joinClass__btn"
