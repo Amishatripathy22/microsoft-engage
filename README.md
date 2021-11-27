@@ -1,3 +1,20 @@
+#Microsoft Hub
+
+• Built a full stack web development software (Microsoft Hub) using `React` whilst implementing `Firebase` database for backend user authentication.
+• This enable students and teachers to work in a collaborative way ensuring digital virtual tools available, deploying the application on `AWS Amplify` there after.
+
+#### `Tech Stack`
+• React
+• Firebase
+• AWS Cloud
+
+Live website link: [https://main.d1evrpwnk30y84.amplifyapp.com/signin](https://main.d1evrpwnk30y84.amplifyapp.com/signin)
+
+<img src="https://github.com/Amishatripathy22/microsoft-engage/blob/main/src/Assets/Demo.gif" width="800" height="400">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
