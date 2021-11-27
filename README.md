@@ -1,5 +1,9 @@
 # Microsoft Hub
 
+Objective: \
+Build a functional prototype of a platform that gives students an array of digital academic and social tools to stay engaged with their studies, peers and broader university community during pandemic.
+
+Achieved:\
 • Built a full stack web development software (Microsoft Hub) using `React` whilst implementing `Firebase` database for backend user authentication. \
 • This enable students and teachers to work in a collaborative way ensuring digital virtual tools available, deploying the application on `AWS Amplify` there after.
 
