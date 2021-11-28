@@ -1,20 +1,20 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Microsoft Hub",
+  "name": "Microsoft Hub",
   "icons": [
     { 
-      "src": "icon.webp",
+      "src": "icon.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "icon.webp",
-      "type": "image/webp",
+      "src": "icon.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "icon.webp",
-      "type": "image/webp",
+      "src": "icon.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],

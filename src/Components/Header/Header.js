@@ -14,7 +14,7 @@ import {
 } from "@material-ui/core";
 import { Add } from "@material-ui/icons";
 import { useLocalContext } from "../../context/context";
-import logo from "../../Assets/logo.webp";
+import logo from "../../Assets/logo.png";
 import { CreateClass, JoinClass, Todo } from "..";
 
 //this function handles the outlook of the header component of the page

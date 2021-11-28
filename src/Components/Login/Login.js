@@ -8,7 +8,7 @@ import { Box, Button } from "@material-ui/core";
 import 'firebase/firestore'
 import { MicrosoftLoginButton, GoogleLoginButton, GithubLoginButton } from "react-social-login-buttons";
 import "./style.css";
-import hub from "../../Assets/hub.webp";
+import hub from "../../Assets/hub.png";
 import $ from 'jquery';
 
 
