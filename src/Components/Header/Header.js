@@ -74,6 +74,7 @@ const Header = ({ children }) => {
                 onClick={() => logout()}
                 src={loggedInUser?.photoURL}
                 className={classes.icon}
+                alt="LoggedIn User's photo"
               />
             </div>
           </div>

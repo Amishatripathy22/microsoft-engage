@@ -29,7 +29,7 @@ const JoinedClasses = ({ classData }) => {
         <Avatar
           className="joined__avatar"
           src="https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s75-c-fbw=1/photo.jpg"
-          
+          alt="Creator's photo"
         />
       </div>
       <div className="joined__bottom">
