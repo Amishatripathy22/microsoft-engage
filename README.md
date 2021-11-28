@@ -4,7 +4,10 @@ Objective: \
 Build a functional prototype of a platform that gives students an array of digital academic and social tools to stay engaged with their studies, peers and broader university community during pandemic.
 
 Achieved:\
-• Built a full stack web development software (Microsoft Hub) using `React` whilst implementing `Firebase` database for backend user authentication. \
+• Built a full stack web development software (Microsoft Hub) using `React` whilst implementing `Firebase` for user authentication. \
+• Firebase firestore was used at backend for storing data for every joined and created classes, as well the documents uploaded by the teacher or the student. \
+• On clicking the PDF icon students can view the assignment and submit their solutions. \
+• The To-Do feature helps the students to set up, update and delete reminders or daily tasks. \
 • This enable students and teachers to work in a collaborative way ensuring digital virtual tools available, deploying the application on `AWS Amplify` there after.
 
 #### `Tech Stack`
