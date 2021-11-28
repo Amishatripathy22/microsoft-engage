@@ -50,7 +50,7 @@ const Header = ({ children }) => {
         <Toolbar className={classes.toolbar}>
           <div className={classes.headerWrapper}>
             {children}
-            <img src={logo} alt="Microsoft" width="auto" height = "auto"/>
+            <img src={logo} width="auto" height = "auto" alt="Microsoft"/>
             <Typography variant="h6" className={classes.title}>
               Hub
             </Typography>
