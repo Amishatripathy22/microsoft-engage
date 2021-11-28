@@ -6,7 +6,7 @@ Build a functional prototype of a platform that gives students an array of digit
 Achieved:\
 • Built a full stack web development software (Microsoft Hub) using `React` whilst implementing `Firebase` for user authentication. \
 • Firebase firestore database was used at the backend for storing data for every joined and created classes, as well as the documents uploaded by teachers or students. \
-• On clicking the PDF icon students can view the assignment and submit their solutions. \
+• On clicking the PDF icon students can view the assignments and submit their solutions. \
 • The To-Do feature helps the students to set up, update and delete reminders or daily tasks. \
 • This enables students and teachers to work in a collaborative way ensuring digital virtual tools available
 • Deployed the application on `AWS Amplify` there after.
